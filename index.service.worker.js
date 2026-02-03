@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1765990469|5328940064';
+const CACHE_VERSION = '1770062456|13038835419';
 /** @type {string} */
 const CACHE_PREFIX = 'PromykPSX-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
